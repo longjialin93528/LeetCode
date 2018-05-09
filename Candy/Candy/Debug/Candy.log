@@ -1,0 +1,8 @@
+﻿  源.cpp
+f:\aaaaa代码\leetcode\candy\candy\源.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+f:\aaaaa代码\leetcode\candy\candy\源.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+f:\aaaaa代码\leetcode\candy\candy\源.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\aaaaa代码\leetcode\candy\candy\源.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+f:\aaaaa代码\leetcode\candy\candy\源.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  Candy.vcxproj -> F:\AAAAA代码\LeetCode\Candy\Debug\Candy.exe
+  Candy.vcxproj -> F:\AAAAA代码\LeetCode\Candy\Debug\Candy.pdb (Partial PDB)
